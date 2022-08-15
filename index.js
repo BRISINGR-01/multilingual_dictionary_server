@@ -15,16 +15,16 @@ const server = http.createServer(async (req, res) => {
 
     if (
       !fs.existsSync(
-        path.resolve(__dirname, "databases", `${language}.sql.zip`)
+        path.resolve(__dirname, "../", "databases", `${language}.sql.zip`)
       )
     ) {
-      language = "Dutch"
       // await download(language);
     }
 
 
     const file_path = path.resolve(
       __dirname,
+      "../",
       "databases",
       `${language}.sql.zip`
     );
@@ -41,8 +41,6 @@ const server = http.createServer(async (req, res) => {
       "Content-Length": size,
       "Original-Length": compressionData[language],
     });
-
-    console.log(size,compressionData)
 
     return fs.createReadStream(file_path).pipe(res).on('finish', res.end);
   }
