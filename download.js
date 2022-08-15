@@ -1,15 +1,15 @@
 const transformer = require("./transformer");
 const commands = require("./dbCommands");
 const compress = require("./compress");
-const fs = require('fs');
+const fs = require("fs");
 // const https = require("https");
 
 const https = {
   get: (_, cb) =>
     cb(
       fs.createReadStream(
-        // "databases/kaikki.org-dictionary-French.txt"
-        "databases/Tocharian A.txt"
+        __dirname + "/databases/kaikki.org-dictionary-Dutch.txt"
+        // "/databases/Tocharian A.txt"
       )
     ),
 }; // testing
@@ -38,10 +38,9 @@ async function download(language) {
         const words = transformer(lines.map(JSON.parse), language);
 
         for (const i in words) {
-          db.run(
-            commands.add(words[i], language, index),
-            (err) => err && console.log(err, words[i])
-          );
+          db.run(commands.add(words[i], language, index), (err) => {
+            if (err) console.log(err, words[i]);
+          });
 
           index++;
         }
@@ -57,3 +56,5 @@ async function download(language) {
     });
   });
 }
+
+// download("Dutch");

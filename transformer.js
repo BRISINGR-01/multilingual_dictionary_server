@@ -38,6 +38,7 @@ module.exports = function transformer(words, lang) {
       origin: word.etymology_text?.replace(/'/g, "´"),
       ipas,
       display: getDisplayVersion(word, lang),
+      // searchList: getSearchList(word.word),
       senses,
       tags,
       translations,
@@ -110,10 +111,10 @@ function parseSenses(word, lang) {
       addToTags(name, tags, lang)
     );
 
-    senses += (sense.raw_glosses || sense.glosses).join(", ") + "\n";
+    senses += (sense.raw_glosses || sense.glosses).join(", ");
 
     if (sense.examples) {
-      senses += sense.examples
+      senses += "\n" + sense.examples
         .map(({ text, english }) => "\n    * " + (english ? `${text}\n - ${english}` : text))
     }
   }
@@ -121,7 +122,6 @@ function parseSenses(word, lang) {
   return [
     JSON.stringify(senses)
       .replace(/'/g, "´")
-      .replace(/\(.+?\)/g, "")
       .replace(/\s?\./g, ""),
     JSON.stringify(tags.flat().filter((tag, i) => i === tags.indexOf(tag))),
     JSON.stringify(
@@ -142,6 +142,11 @@ function getDisplayVersion(word, lang) {
     languages[lang]?.orderData(word) ||
     word.head_templates[0].expansion
   );
+}
+
+function getSearchList(word) {
+  
+  
 }
 
 function orderForms({ forms, pos, word }, lang) {
