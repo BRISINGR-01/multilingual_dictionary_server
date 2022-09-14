@@ -100,9 +100,10 @@ string *parse(string text)
   string word = data["word"];
   string pos = data["pos"];
   string expansion = data["head_templates"].is_array() ? data["head_templates"][0]["expansion"].get<string>() : word;
-  string origin = data["etymology_text"];
-
+  string origin = data["etymology_text"].is_string() ? data["etymology_text"] : "";
   string senses = "";
+  string tags = "";
+  string forms = "";
   string translations = "";
 
   // Value &raw_senses = d["senses"];
@@ -160,20 +161,16 @@ string *parse(string text)
   //   if (i != raw_senses.Size() - 1)
   //     senses += "\n";
   // }
-  
+
   string ipa = "";
 
-  if (data["sounds"] != NULL)
+  if (data["sounds"].is_array())
   {
     string ipas[10];
-    cout << 0 << endl;
     for (int i = 0; i < data["sounds"].size(); i++)
     {
-      cout << 1 << endl;
-      if (data["sounds"][i]["ipa"] != NULL)
+      if (data["sounds"][i]["ipa"].is_string())
       {
-        cout << 2 << endl;
-        cout << data["sounds"][i]["ipa"] << endl;
         ipa += data["sounds"][i]["ipa"].get<string>() + "|";
       }
     }
@@ -192,8 +189,8 @@ string *parse(string text)
   parsedData[4] = translations;
   parsedData[6] = origin;
   parsedData[7] = ipa;
-  parsedData[5] = "tags";
-  parsedData[8] = "forms";
+  parsedData[5] = tags;
+  parsedData[8] = forms;
 
   return parsedData;
 }
