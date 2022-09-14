@@ -23,7 +23,7 @@ const initCommands = {
 module.exports = {
   init: async (lang) => {
     const db = new sqlite3.Database(
-      path.resolve(__dirname, "databases", `${lang}.sql`)
+      path.resolve(__dirname, "../", "databases", `${lang}.sql`)
     );
 
     await new Promise((resolve) => {

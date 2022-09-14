@@ -8,7 +8,7 @@ const https = {
   get: (_, cb) =>
     cb(
       fs.createReadStream(
-        __dirname + "/databases/kaikki.org-dictionary-Dutch.txt"
+        __dirname + "./../databases/Bulgarian.txt"
         // "/databases/Tocharian A.txt"
       )
     ),
@@ -57,4 +57,4 @@ async function download(language) {
   });
 }
 
-// download("Dutch");
+// download("Bulgarian");

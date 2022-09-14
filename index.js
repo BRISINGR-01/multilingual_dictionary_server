@@ -29,7 +29,7 @@ const server = http.createServer(async (req, res) => {
       `${language}.sql.zip`
     );
 
-    const { size } = fs.statSync(file_path);
+      const { size } = fs.statSync(file_path);
     const compressionData = JSON.parse(
       fs
         .readFileSync(path.resolve(__dirname, "compressionData.json"))
@@ -39,6 +39,7 @@ const server = http.createServer(async (req, res) => {
     res.writeHead(200, {
       "Content-Encoding": "gzip",
       "Content-Length": size,
+      "Conection": "keep-alive",
       "Original-Length": compressionData[language],
     });
 
@@ -48,4 +49,4 @@ const server = http.createServer(async (req, res) => {
   res.end();
 });
 
-server.listen(3000, console.log);
+server.listen(5500, console.log);

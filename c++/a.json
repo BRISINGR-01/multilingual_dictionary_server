@@ -1,0 +1,2256 @@
+[
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "nl-noun",
+        "args": {
+          "1": "n",
+          "2": "-en",
+          "3": "scheepsruimpje"
+        },
+        "expansion": "scheepsruim n (plural scheepsruimen, diminutive scheepsruimpje n)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "scheepsruimen",
+        "tags": [
+          "plural"
+        ]
+      },
+      {
+        "form": "scheepsruimpje",
+        "tags": [
+          "diminutive",
+          "neuter"
+        ]
+      }
+    ],
+    "etymology_text": "Compound of scheep + -s- + ruim.",
+    "etymology_templates": [
+      {
+        "name": "compound",
+        "args": {
+          "1": "nl",
+          "2": "schip",
+          "alt1": "scheep",
+          "3": "-s-",
+          "4": "ruim"
+        },
+        "expansion": "scheep + -s- + ruim"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "/\u02c8sxe\u02d0ps.r\u0153y\u032fm/"
+      },
+      {
+        "audio": "Nl-scheepsruim.ogg",
+        "text": "Audio",
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Nl-scheepsruim.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Nl-scheepsruim.ogg/Nl-scheepsruim.ogg.mp3"
+      },
+      {
+        "audio": "Nl-scheepsruim (Belgium).ogg",
+        "text": "Audio (Belgium)",
+        "tags": [
+          "Belgium"
+        ],
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Nl-scheepsruim_%28Belgium%29.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/26/Nl-scheepsruim_%28Belgium%29.ogg/Nl-scheepsruim_%28Belgium%29.ogg.mp3"
+      }
+    ],
+    "word": "scheepsruim",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "senses": [
+      {
+        "raw_glosses": [
+          "cargo hold of a ship"
+        ],
+        "tags": [
+          "neuter"
+        ],
+        "glosses": [
+          "cargo hold of a ship"
+        ],
+        "id": "scheepsruim-nl-noun-vUfCrN7T",
+        "categories": [
+          {
+            "name": "Dutch compound words",
+            "kind": "other",
+            "parents": [
+              "Compound words",
+              "Terms by etymology"
+            ],
+            "source": "w"
+          },
+          {
+            "name": "Dutch words interfixed with -s-",
+            "kind": "other",
+            "parents": [],
+            "source": "w"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "nl-noun",
+        "args": {
+          "1": "m",
+          "2": "-en",
+          "3": "scheepsbootje"
+        },
+        "expansion": "scheepsboot m (plural scheepsboten, diminutive scheepsbootje n)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "scheepsboten",
+        "tags": [
+          "plural"
+        ]
+      },
+      {
+        "form": "scheepsbootje",
+        "tags": [
+          "diminutive",
+          "neuter"
+        ]
+      }
+    ],
+    "etymology_text": "From schip (\u201cship\u201d) + boot (\u201cboat\u201d).",
+    "etymology_templates": [
+      {
+        "name": "compound",
+        "args": {
+          "1": "nl",
+          "2": "schip",
+          "3": "boot",
+          "t1": "ship",
+          "t2": "boat"
+        },
+        "expansion": "schip (\u201cship\u201d) + boot (\u201cboat\u201d)"
+      }
+    ],
+    "word": "scheepsboot",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "senses": [
+      {
+        "raw_glosses": [
+          "ship's boat"
+        ],
+        "tags": [
+          "masculine"
+        ],
+        "glosses": [
+          "ship's boat"
+        ],
+        "id": "scheepsboot-nl-noun-3Dc7EovZ",
+        "categories": [
+          {
+            "name": "Dutch compound words",
+            "kind": "other",
+            "parents": [
+              "Compound words",
+              "Terms by etymology"
+            ],
+            "source": "w"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "nl-noun",
+        "args": {
+          "1": "f",
+          "2": "hoogwaardigheden",
+          "3": "hoogwaardigheidje"
+        },
+        "expansion": "hoogwaardigheid f (plural hoogwaardigheden, diminutive hoogwaardigheidje n)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "hoogwaardigheden",
+        "tags": [
+          "plural"
+        ]
+      },
+      {
+        "form": "hoogwaardigheidje",
+        "tags": [
+          "diminutive",
+          "neuter"
+        ]
+      }
+    ],
+    "etymology_text": "From hoogwaardig (\u201chigh-quality; eminent\u201d) + -heid (\u201c-hood\u201d).",
+    "etymology_templates": [
+      {
+        "name": "suffix",
+        "args": {
+          "1": "nl",
+          "2": "hoogwaardig",
+          "3": "-heid",
+          "t1": "high-quality; eminent",
+          "t2": "-hood"
+        },
+        "expansion": "hoogwaardig (\u201chigh-quality; eminent\u201d) + -heid (\u201c-hood\u201d)"
+      }
+    ],
+    "sounds": [
+      {
+        "audio": "Nl-hoogwaardigheid.ogg",
+        "text": "Audio",
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Nl-hoogwaardigheid.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a9/Nl-hoogwaardigheid.ogg/Nl-hoogwaardigheid.ogg.mp3"
+      }
+    ],
+    "word": "hoogwaardigheid",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "categories": [],
+    "derived": [
+      {
+        "word": "hoogwaardigheidsbekleder",
+        "_dis1": "0 0"
+      }
+    ],
+    "senses": [
+      {
+        "raw_glosses": [
+          "the state of being of high quality"
+        ],
+        "tags": [
+          "feminine"
+        ],
+        "glosses": [
+          "the state of being of high quality"
+        ],
+        "id": "hoogwaardigheid-nl-noun-4gNMEykp"
+      },
+      {
+        "raw_glosses": [
+          "someone of high rank; an eminence"
+        ],
+        "synonyms": [
+          {
+            "word": "eminentie"
+          }
+        ],
+        "tags": [
+          "feminine"
+        ],
+        "glosses": [
+          "someone of high rank; an eminence"
+        ],
+        "id": "hoogwaardigheid-nl-noun-w-BKmQK5"
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "nl-noun",
+        "args": {
+          "1": "f",
+          "2": "-en",
+          "3": "brandkraantje"
+        },
+        "expansion": "brandkraan f (plural brandkranen, diminutive brandkraantje n)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "brandkranen",
+        "tags": [
+          "plural"
+        ]
+      },
+      {
+        "form": "brandkraantje",
+        "tags": [
+          "diminutive",
+          "neuter"
+        ]
+      }
+    ],
+    "etymology_text": "From brand (\u201c(large) fire\u201d) + kraan (\u201ctap\u201d).",
+    "etymology_templates": [
+      {
+        "name": "compound",
+        "args": {
+          "1": "nl",
+          "2": "brand",
+          "3": "kraan",
+          "t1": "(large) fire",
+          "t2": "tap"
+        },
+        "expansion": "brand (\u201c(large) fire\u201d) + kraan (\u201ctap\u201d)"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "/\u02c8br\u0251nt.kra\u02d0n/"
+      },
+      {
+        "audio": "Nl-brandkraan.ogg",
+        "text": "Audio",
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Nl-brandkraan.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a5/Nl-brandkraan.ogg/Nl-brandkraan.ogg.mp3"
+      }
+    ],
+    "word": "brandkraan",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "senses": [
+      {
+        "raw_glosses": [
+          "fire hydrant"
+        ],
+        "synonyms": [
+          {
+            "word": "hydrant"
+          }
+        ],
+        "tags": [
+          "feminine"
+        ],
+        "glosses": [
+          "fire hydrant"
+        ],
+        "id": "brandkraan-nl-noun-kzb9I.jr",
+        "categories": [
+          {
+            "name": "Dutch compound words",
+            "kind": "other",
+            "parents": [
+              "Compound words",
+              "Terms by etymology"
+            ],
+            "source": "w"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "nl-noun",
+        "args": {
+          "1": "m",
+          "2": "-en",
+          "3": "windhaakje"
+        },
+        "expansion": "windhaak m (plural windhaken, diminutive windhaakje n)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "windhaken",
+        "tags": [
+          "plural"
+        ]
+      },
+      {
+        "form": "windhaakje",
+        "tags": [
+          "diminutive",
+          "neuter"
+        ]
+      }
+    ],
+    "etymology_text": "From wind (\u201cwind\u201d) + haak (\u201chook\u201d).",
+    "etymology_templates": [
+      {
+        "name": "compound",
+        "args": {
+          "1": "nl",
+          "2": "wind",
+          "3": "haak",
+          "t1": "wind",
+          "t2": "hook"
+        },
+        "expansion": "wind (\u201cwind\u201d) + haak (\u201chook\u201d)"
+      }
+    ],
+    "sounds": [
+      {
+        "audio": "Nl-windhaak.ogg",
+        "text": "Audio",
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Nl-windhaak.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Nl-windhaak.ogg/Nl-windhaak.ogg.mp3"
+      }
+    ],
+    "word": "windhaak",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "senses": [
+      {
+        "raw_glosses": [
+          "a clasp to fasten doors or windows, either in a fully closed position or in a fixed partially open position; a hasp"
+        ],
+        "tags": [
+          "masculine"
+        ],
+        "glosses": [
+          "a clasp to fasten doors or windows, either in a fully closed position or in a fixed partially open position; a hasp"
+        ],
+        "id": "windhaak-nl-noun-7uVNMmmE",
+        "categories": [
+          {
+            "name": "Dutch compound words",
+            "kind": "other",
+            "parents": [
+              "Compound words",
+              "Terms by etymology"
+            ],
+            "source": "w"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pos": "adj",
+    "head_templates": [
+      {
+        "name": "nl-adj",
+        "args": {},
+        "expansion": "grijmig (comparative grijmiger, superlative grijmigst)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "grijmiger",
+        "tags": [
+          "comparative"
+        ]
+      },
+      {
+        "form": "grijmigst",
+        "tags": [
+          "superlative"
+        ]
+      }
+    ],
+    "etymology_text": "From grijm (\u201csoot\u201d) + -ig (\u201c-y\u201d).",
+    "etymology_templates": [
+      {
+        "name": "affix",
+        "args": {
+          "1": "nl",
+          "2": "grijm",
+          "t1": "soot",
+          "3": "-ig",
+          "t2": "-y"
+        },
+        "expansion": "grijm (\u201csoot\u201d) + -ig (\u201c-y\u201d)"
+      }
+    ],
+    "word": "grijmig",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "senses": [
+      {
+        "raw_glosses": [
+          "grimy"
+        ],
+        "examples": [
+          {
+            "text": ", roeterig"
+          }
+        ],
+        "synonyms": [
+          {
+            "word": "roetig"
+          }
+        ],
+        "glosses": [
+          "grimy"
+        ],
+        "id": "grijmig-nl-adj-DGj2F7qL",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "pos": "adj",
+    "head_templates": [
+      {
+        "name": "nl-adj",
+        "args": {
+          "1": "hoogwaardiger",
+          "2": "hoogwaardigst"
+        },
+        "expansion": "hoogwaardig (comparative hoogwaardiger, superlative hoogwaardigst)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "hoogwaardiger",
+        "tags": [
+          "comparative"
+        ]
+      },
+      {
+        "form": "hoogwaardigst",
+        "tags": [
+          "superlative"
+        ]
+      }
+    ],
+    "etymology_text": "From hoog (\u201chigh\u201d) + -waardig (\u201c-worthy\u201d).",
+    "etymology_templates": [
+      {
+        "name": "af",
+        "args": {
+          "1": "nl",
+          "2": "hoog",
+          "3": "-waardig",
+          "t1": "high",
+          "t2": "-worthy"
+        },
+        "expansion": "hoog (\u201chigh\u201d) + -waardig (\u201c-worthy\u201d)"
+      }
+    ],
+    "sounds": [
+      {
+        "audio": "Nl-hoogwaardig.ogg",
+        "text": "Audio",
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Nl-hoogwaardig.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/da/Nl-hoogwaardig.ogg/Nl-hoogwaardig.ogg.mp3"
+      }
+    ],
+    "word": "hoogwaardig",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "categories": [],
+    "derived": [
+      {
+        "word": "hoogwaardigheid",
+        "_dis1": "0 0"
+      }
+    ],
+    "senses": [
+      {
+        "raw_glosses": [
+          "high-quality, first-rate"
+        ],
+        "glosses": [
+          "high-quality, first-rate"
+        ],
+        "id": "hoogwaardig-nl-adj-0CWlM7BH"
+      },
+      {
+        "raw_glosses": [
+          "eminent"
+        ],
+        "glosses": [
+          "eminent"
+        ],
+        "id": "hoogwaardig-nl-adj-F7X.XRqB"
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "nl-noun",
+        "args": {
+          "1": "n",
+          "2": "-en",
+          "3": "zakformaatje"
+        },
+        "expansion": "zakformaat n (plural zakformaten, diminutive zakformaatje n)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "zakformaten",
+        "tags": [
+          "plural"
+        ]
+      },
+      {
+        "form": "zakformaatje",
+        "tags": [
+          "diminutive",
+          "neuter"
+        ]
+      }
+    ],
+    "etymology_text": "18th century. From zak (\u201cpocket\u201d) + formaat (\u201csize\u201d), possibly a calque of German Taschenformat.",
+    "etymology_templates": [
+      {
+        "name": "compound",
+        "args": {
+          "1": "nl",
+          "2": "zak",
+          "t1": "pocket",
+          "3": "formaat",
+          "t2": "size"
+        },
+        "expansion": "zak (\u201cpocket\u201d) + formaat (\u201csize\u201d)"
+      },
+      {
+        "name": "calque",
+        "args": {
+          "1": "nl",
+          "2": "de",
+          "3": "Taschenformat",
+          "nocap": "1"
+        },
+        "expansion": "calque of German Taschenformat"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "/\u02c8z\u0251k.f\u0254r\u02ccma\u02d0t/"
+      },
+      {
+        "audio": "Nl-zakformaat.ogg",
+        "text": "Audio",
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Nl-zakformaat.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/32/Nl-zakformaat.ogg/Nl-zakformaat.ogg.mp3"
+      }
+    ],
+    "word": "zakformaat",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "senses": [
+      {
+        "raw_glosses": [
+          "(chiefly singular) pocket size, pocket edition (in particular of books)"
+        ],
+        "tags": [
+          "neuter",
+          "singular"
+        ],
+        "glosses": [
+          "pocket size, pocket edition (in particular of books)"
+        ],
+        "id": "zakformaat-nl-noun-txS1U.fT",
+        "categories": [
+          {
+            "name": "Dutch compound words",
+            "kind": "other",
+            "parents": [
+              "Compound words",
+              "Terms by etymology"
+            ],
+            "source": "w"
+          }
+        ],
+        "synonyms": [
+          {
+            "tags": [
+              "obsolete"
+            ],
+            "word": "zak-formaat"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "nl-noun",
+        "args": {
+          "1": "f",
+          "2": "-en",
+          "3": "pijptangetje"
+        },
+        "expansion": "pijptang f (plural pijptangen, diminutive pijptangetje n)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "pijptangen",
+        "tags": [
+          "plural"
+        ]
+      },
+      {
+        "form": "pijptangetje",
+        "tags": [
+          "diminutive",
+          "neuter"
+        ]
+      }
+    ],
+    "etymology_text": "From pijp (\u201cpipe\u201d) + tang (\u201cpincer\u201d).",
+    "etymology_templates": [
+      {
+        "name": "compound",
+        "args": {
+          "1": "nl",
+          "2": "pijp",
+          "3": "tang",
+          "t1": "pipe",
+          "t2": "pincer"
+        },
+        "expansion": "pijp (\u201cpipe\u201d) + tang (\u201cpincer\u201d)"
+      }
+    ],
+    "sounds": [
+      {
+        "audio": "Nl-pijptang.ogg",
+        "text": "Audio",
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Nl-pijptang.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f5/Nl-pijptang.ogg/Nl-pijptang.ogg.mp3"
+      }
+    ],
+    "word": "pijptang",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "senses": [
+      {
+        "raw_glosses": [
+          "pipe wrench"
+        ],
+        "tags": [
+          "feminine"
+        ],
+        "glosses": [
+          "pipe wrench"
+        ],
+        "id": "pijptang-nl-noun-71dagdob",
+        "categories": [
+          {
+            "name": "Dutch compound words",
+            "kind": "other",
+            "parents": [
+              "Compound words",
+              "Terms by etymology"
+            ],
+            "source": "w"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "nl-noun",
+        "args": {
+          "1": "n",
+          "2": "-en",
+          "3": "leidingwerkje"
+        },
+        "expansion": "leidingwerk n (plural leidingwerken, diminutive leidingwerkje n)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "leidingwerken",
+        "tags": [
+          "plural"
+        ]
+      },
+      {
+        "form": "leidingwerkje",
+        "tags": [
+          "diminutive",
+          "neuter"
+        ]
+      }
+    ],
+    "etymology_text": "From leiding (\u201cduct\u201d) + werk (\u201cwork\u201d).",
+    "etymology_templates": [
+      {
+        "name": "compound",
+        "args": {
+          "1": "nl",
+          "2": "leiding",
+          "3": "werk",
+          "t1": "duct",
+          "t2": "work"
+        },
+        "expansion": "leiding (\u201cduct\u201d) + werk (\u201cwork\u201d)"
+      }
+    ],
+    "sounds": [
+      {
+        "audio": "Nl-leidingwerk.ogg",
+        "text": "Audio",
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Nl-leidingwerk.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8c/Nl-leidingwerk.ogg/Nl-leidingwerk.ogg.mp3"
+      }
+    ],
+    "word": "leidingwerk",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "senses": [
+      {
+        "raw_glosses": [
+          "ductwork"
+        ],
+        "tags": [
+          "neuter"
+        ],
+        "glosses": [
+          "ductwork"
+        ],
+        "id": "leidingwerk-nl-noun-ZHFWTXg4",
+        "categories": [
+          {
+            "name": "Dutch compound words",
+            "kind": "other",
+            "parents": [
+              "Compound words",
+              "Terms by etymology"
+            ],
+            "source": "w"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "nl-noun",
+        "args": {
+          "1": "f",
+          "2": "-",
+          "3": "-"
+        },
+        "expansion": "frictie f (uncountable)"
+      }
+    ],
+    "etymology_text": "Borrowed from Latin fricti\u014d.",
+    "etymology_templates": [
+      {
+        "name": "bor",
+        "args": {
+          "1": "nl",
+          "2": "la",
+          "3": "fricti\u014d"
+        },
+        "expansion": "Latin fricti\u014d"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "/\u02c8fr\u026aksi/"
+      },
+      {
+        "audio": "Nl-frictie.ogg",
+        "text": "Audio",
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Nl-frictie.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9f/Nl-frictie.ogg/Nl-frictie.ogg.mp3"
+      }
+    ],
+    "word": "frictie",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "categories": [],
+    "senses": [
+      {
+        "raw_glosses": [
+          "friction"
+        ],
+        "synonyms": [
+          {
+            "word": "wrijving"
+          }
+        ],
+        "tags": [
+          "feminine",
+          "uncountable"
+        ],
+        "glosses": [
+          "friction"
+        ],
+        "id": "frictie-nl-noun-sN5Zjy6O"
+      },
+      {
+        "raw_glosses": [
+          "social friction, conflict"
+        ],
+        "tags": [
+          "feminine",
+          "uncountable"
+        ],
+        "glosses": [
+          "social friction, conflict"
+        ],
+        "id": "frictie-nl-noun-vZoY4lx3"
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "nl-noun",
+        "args": {
+          "1": "f",
+          "2": "-en",
+          "3": "baslijntje"
+        },
+        "expansion": "baslijn f (plural baslijnen, diminutive baslijntje n)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "baslijnen",
+        "tags": [
+          "plural"
+        ]
+      },
+      {
+        "form": "baslijntje",
+        "tags": [
+          "diminutive",
+          "neuter"
+        ]
+      }
+    ],
+    "etymology_text": "From bas (\u201cbass\u201d) + lijn (\u201cline\u201d).",
+    "etymology_templates": [
+      {
+        "name": "compound",
+        "args": {
+          "1": "nl",
+          "2": "bas",
+          "3": "lijn",
+          "t1": "bass",
+          "t2": "line"
+        },
+        "expansion": "bas (\u201cbass\u201d) + lijn (\u201cline\u201d)"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "/\u02c8b\u0251s.l\u025bi\u032fn/"
+      },
+      {
+        "rhymes": "-\u0251sl\u025bi\u032fn"
+      },
+      {
+        "audio": "Nl-baslijn.ogg",
+        "text": "Audio",
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Nl-baslijn.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/04/Nl-baslijn.ogg/Nl-baslijn.ogg.mp3"
+      }
+    ],
+    "word": "baslijn",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "senses": [
+      {
+        "raw_glosses": [
+          "bassline"
+        ],
+        "tags": [
+          "feminine"
+        ],
+        "glosses": [
+          "bassline"
+        ],
+        "id": "baslijn-nl-noun-B-Jdq2Gp",
+        "categories": [
+          {
+            "name": "Dutch compound words",
+            "kind": "other",
+            "parents": [
+              "Compound words",
+              "Terms by etymology"
+            ],
+            "source": "w"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "nl-noun",
+        "args": {
+          "1": "n",
+          "2": "-en",
+          "3": "formaatje"
+        },
+        "expansion": "formaat n (plural formaten, diminutive formaatje n)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "formaten",
+        "tags": [
+          "plural"
+        ]
+      },
+      {
+        "form": "formaatje",
+        "tags": [
+          "diminutive",
+          "neuter"
+        ]
+      }
+    ],
+    "etymology_text": "Borrowed from German Format.",
+    "etymology_templates": [
+      {
+        "name": "bor",
+        "args": {
+          "1": "nl",
+          "2": "de",
+          "3": "Format"
+        },
+        "expansion": "German Format"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "/f\u0254r\u02c8ma\u02d0t/"
+      },
+      {
+        "rhymes": "-a\u02d0t"
+      },
+      {
+        "audio": "Nl-formaat.ogg",
+        "text": "Audio",
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Nl-formaat.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/95/Nl-formaat.ogg/Nl-formaat.ogg.mp3"
+      }
+    ],
+    "word": "formaat",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "categories": [],
+    "derived": [
+      {
+        "word": "bestandsformaat",
+        "_dis1": "0 0 0"
+      },
+      {
+        "word": "papierformaat",
+        "_dis1": "0 0 0"
+      },
+      {
+        "word": "standaardformaat",
+        "_dis1": "0 0 0"
+      },
+      {
+        "word": "zakformaat",
+        "_dis1": "0 0 0"
+      }
+    ],
+    "senses": [
+      {
+        "raw_glosses": [
+          "size"
+        ],
+        "tags": [
+          "neuter"
+        ],
+        "glosses": [
+          "size"
+        ],
+        "id": "formaat-nl-noun-zNy-hG89"
+      },
+      {
+        "raw_glosses": [
+          "stature, importance"
+        ],
+        "tags": [
+          "neuter"
+        ],
+        "glosses": [
+          "stature, importance"
+        ],
+        "id": "formaat-nl-noun-tsawmUva"
+      },
+      {
+        "raw_glosses": [
+          "(file) format"
+        ],
+        "english": "file",
+        "tags": [
+          "neuter"
+        ],
+        "glosses": [
+          "format"
+        ],
+        "id": "formaat-nl-noun-6QTJzPpC"
+      }
+    ]
+  },
+  {
+    "pos": "verb",
+    "inflection_templates": [
+      {
+        "name": "nl-conj-wk",
+        "args": {
+          "1": "hobbel"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "form": "weak",
+        "source": "Inflection",
+        "tags": [
+          "table-tags"
+        ]
+      },
+      {
+        "form": "hobbelen",
+        "tags": [
+          "infinitive"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbelen",
+        "tags": [
+          "gerund",
+          "neuter"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbel",
+        "tags": [
+          "first-person",
+          "present",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbelde",
+        "tags": [
+          "first-person",
+          "past",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbelt",
+        "tags": [
+          "present",
+          "second-person",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbelde",
+        "tags": [
+          "past",
+          "second-person",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbelt",
+        "tags": [
+          "formal",
+          "present",
+          "second-person",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbelde",
+        "tags": [
+          "formal",
+          "past",
+          "second-person",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbelt",
+        "tags": [
+          "Flanders",
+          "colloquial",
+          "present",
+          "second-person",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbelt",
+        "tags": [
+          "archaic",
+          "formal",
+          "majestic",
+          "present",
+          "second-person",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbelde",
+        "tags": [
+          "Flanders",
+          "colloquial",
+          "past",
+          "second-person",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbelde",
+        "tags": [
+          "archaic",
+          "formal",
+          "majestic",
+          "past",
+          "second-person",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbelt",
+        "tags": [
+          "present",
+          "singular",
+          "third-person"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbelde",
+        "tags": [
+          "past",
+          "singular",
+          "third-person"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbelen",
+        "tags": [
+          "plural",
+          "present"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbelden",
+        "tags": [
+          "past",
+          "plural"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbele",
+        "tags": [
+          "archaic",
+          "present",
+          "singular",
+          "subjunctive"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbelde",
+        "tags": [
+          "archaic",
+          "past",
+          "singular",
+          "subjunctive"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbelen",
+        "tags": [
+          "archaic",
+          "plural",
+          "present",
+          "subjunctive"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbelden",
+        "tags": [
+          "archaic",
+          "past",
+          "plural",
+          "subjunctive"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbel",
+        "tags": [
+          "imperative",
+          "present",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbelt",
+        "tags": [
+          "archaic",
+          "imperative",
+          "plural",
+          "present"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "hobbelend",
+        "tags": [
+          "participle",
+          "present"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "gehobbeld",
+        "tags": [
+          "participle",
+          "past"
+        ],
+        "source": "Inflection"
+      }
+    ],
+    "etymology_text": "From hobben (\u201cto hobble, move back and forth\u201d) + -elen",
+    "etymology_templates": [
+      {
+        "name": "suffix",
+        "args": {
+          "1": "nl",
+          "2": "hobben",
+          "3": "elen",
+          "t1": "to hobble, move back and forth"
+        },
+        "expansion": "hobben (\u201cto hobble, move back and forth\u201d) + -elen"
+      }
+    ],
+    "sounds": [
+      {
+        "rhymes": "-\u0254b\u0259l\u0259n"
+      },
+      {
+        "audio": "Nl-hobbelen.ogg",
+        "text": "Audio",
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Nl-hobbelen.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ab/Nl-hobbelen.ogg/Nl-hobbelen.ogg.mp3"
+      }
+    ],
+    "word": "hobbelen",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "senses": [
+      {
+        "raw_glosses": [
+          "to lurch"
+        ],
+        "glosses": [
+          "to lurch"
+        ],
+        "id": "hobbelen-nl-verb-Lzjab-up",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "nl-noun",
+        "args": {
+          "1": "m",
+          "2": "-s",
+          "3": "hoogwaardigheidsbekledertje",
+          "f": "hoogwaardigheidsbekleedster"
+        },
+        "expansion": "hoogwaardigheidsbekleder m (plural hoogwaardigheidsbekleders, diminutive hoogwaardigheidsbekledertje n, feminine hoogwaardigheidsbekleedster)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "hoogwaardigheidsbekleders",
+        "tags": [
+          "plural"
+        ]
+      },
+      {
+        "form": "hoogwaardigheidsbekledertje",
+        "tags": [
+          "diminutive",
+          "neuter"
+        ]
+      },
+      {
+        "form": "hoogwaardigheidsbekleedster",
+        "tags": [
+          "feminine"
+        ]
+      }
+    ],
+    "etymology_text": "Compound of hoogwaardigheid + -s- + bekleder.",
+    "etymology_templates": [
+      {
+        "name": "compound",
+        "args": {
+          "1": "nl",
+          "2": "hoogwaardigheid",
+          "3": "-s-",
+          "4": "bekleder"
+        },
+        "expansion": "hoogwaardigheid + -s- + bekleder"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "/\u0266o\u02d0x\u02c8\u028ba\u02d0r.d\u0259x.\u0266\u025bi\u032fts.b\u0259\u02cckle\u02d0.d\u0259r/"
+      },
+      {
+        "audio": "Nl-hoogwaardigheidsbekleder.ogg",
+        "text": "Audio",
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Nl-hoogwaardigheidsbekleder.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/89/Nl-hoogwaardigheidsbekleder.ogg/Nl-hoogwaardigheidsbekleder.ogg.mp3"
+      }
+    ],
+    "word": "hoogwaardigheidsbekleder",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "senses": [
+      {
+        "raw_glosses": [
+          "dignitary"
+        ],
+        "tags": [
+          "masculine"
+        ],
+        "glosses": [
+          "dignitary"
+        ],
+        "id": "hoogwaardigheidsbekleder-nl-noun-RfCyE6BC",
+        "categories": [
+          {
+            "name": "Dutch compound words",
+            "kind": "other",
+            "parents": [
+              "Compound words",
+              "Terms by etymology"
+            ],
+            "source": "w"
+          },
+          {
+            "name": "Dutch words interfixed with -s-",
+            "kind": "other",
+            "parents": [],
+            "source": "w"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "nl-noun",
+        "args": {
+          "1": "m",
+          "2": "-en",
+          "3": "etterbuiltje"
+        },
+        "expansion": "etterbuil m (plural etterbuilen, diminutive etterbuiltje n)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "etterbuilen",
+        "tags": [
+          "plural"
+        ]
+      },
+      {
+        "form": "etterbuiltje",
+        "tags": [
+          "diminutive",
+          "neuter"
+        ]
+      }
+    ],
+    "etymology_text": "From etter (\u201cpus\u201d) + buil (\u201chump, bump\u201d).",
+    "etymology_templates": [
+      {
+        "name": "compound",
+        "args": {
+          "1": "nl",
+          "2": "etter",
+          "3": "buil",
+          "t1": "pus",
+          "t2": "hump, bump"
+        },
+        "expansion": "etter (\u201cpus\u201d) + buil (\u201chump, bump\u201d)"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "/\u02c8\u025b.t\u0259r\u02ccb\u0153y\u032fl/"
+      },
+      {
+        "audio": "Nl-etterbuil.ogg",
+        "text": "Audio",
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Nl-etterbuil.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/38/Nl-etterbuil.ogg/Nl-etterbuil.ogg.mp3"
+      }
+    ],
+    "word": "etterbuil",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "senses": [
+      {
+        "raw_glosses": [
+          "A localized accumulation of pus in the skin; a pus boil."
+        ],
+        "tags": [
+          "masculine"
+        ],
+        "glosses": [
+          "A localized accumulation of pus in the skin; a pus boil."
+        ],
+        "id": "etterbuil-nl-noun-HkLg6XRs",
+        "categories": [
+          {
+            "name": "Dutch compound words",
+            "kind": "other",
+            "parents": [
+              "Compound words",
+              "Terms by etymology"
+            ],
+            "source": "w+disamb",
+            "_dis": "66 34"
+          }
+        ]
+      },
+      {
+        "raw_glosses": [
+          "(derogatory) A git, a cunt (objectionable person)."
+        ],
+        "synonyms": [
+          {
+            "word": "etterbak"
+          },
+          {
+            "word": "etterkop"
+          }
+        ],
+        "tags": [
+          "derogatory",
+          "masculine"
+        ],
+        "glosses": [
+          "A git, a cunt (objectionable person)."
+        ],
+        "id": "etterbuil-nl-noun-024dn4B8",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "pos": "verb",
+    "head_templates": [
+      {
+        "name": "nl-verb",
+        "args": {},
+        "expansion": "debrideren"
+      }
+    ],
+    "inflection_templates": [
+      {
+        "name": "nl-conj-wk",
+        "args": {
+          "1": "debrideer",
+          "2": "debridere"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "form": "weak",
+        "source": "Inflection",
+        "tags": [
+          "table-tags"
+        ]
+      },
+      {
+        "form": "debrideren",
+        "tags": [
+          "infinitive"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideren",
+        "tags": [
+          "gerund",
+          "neuter"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideer",
+        "tags": [
+          "first-person",
+          "present",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideerde",
+        "tags": [
+          "first-person",
+          "past",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideert",
+        "tags": [
+          "present",
+          "second-person",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideerde",
+        "tags": [
+          "past",
+          "second-person",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideert",
+        "tags": [
+          "formal",
+          "present",
+          "second-person",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideerde",
+        "tags": [
+          "formal",
+          "past",
+          "second-person",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideert",
+        "tags": [
+          "Flanders",
+          "colloquial",
+          "present",
+          "second-person",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideert",
+        "tags": [
+          "archaic",
+          "formal",
+          "majestic",
+          "present",
+          "second-person",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideerde",
+        "tags": [
+          "Flanders",
+          "colloquial",
+          "past",
+          "second-person",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideerde",
+        "tags": [
+          "archaic",
+          "formal",
+          "majestic",
+          "past",
+          "second-person",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideert",
+        "tags": [
+          "present",
+          "singular",
+          "third-person"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideerde",
+        "tags": [
+          "past",
+          "singular",
+          "third-person"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideren",
+        "tags": [
+          "plural",
+          "present"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideerden",
+        "tags": [
+          "past",
+          "plural"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debridere",
+        "tags": [
+          "archaic",
+          "present",
+          "singular",
+          "subjunctive"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideerde",
+        "tags": [
+          "archaic",
+          "past",
+          "singular",
+          "subjunctive"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideren",
+        "tags": [
+          "archaic",
+          "plural",
+          "present",
+          "subjunctive"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideerden",
+        "tags": [
+          "archaic",
+          "past",
+          "plural",
+          "subjunctive"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideer",
+        "tags": [
+          "imperative",
+          "present",
+          "singular"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debrideert",
+        "tags": [
+          "archaic",
+          "imperative",
+          "plural",
+          "present"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "debriderend",
+        "tags": [
+          "participle",
+          "present"
+        ],
+        "source": "Inflection"
+      },
+      {
+        "form": "gedebrideerd",
+        "tags": [
+          "participle",
+          "past"
+        ],
+        "source": "Inflection"
+      }
+    ],
+    "etymology_text": "Borrowed from French d\u00e9brider.",
+    "etymology_templates": [
+      {
+        "name": "bor",
+        "args": {
+          "1": "nl",
+          "2": "fr",
+          "3": "d\u00e9brider"
+        },
+        "expansion": "French d\u00e9brider"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "/\u02ccde\u02d0.bri\u02c8de\u02d0.r\u0259(n)/"
+      },
+      {
+        "rhymes": "-e\u02d0r\u0259n"
+      }
+    ],
+    "word": "debrideren",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "senses": [
+      {
+        "raw_glosses": [
+          "to remove necrotic tissue; to debride"
+        ],
+        "glosses": [
+          "to remove necrotic tissue; to debride"
+        ],
+        "id": "debrideren-nl-verb-v-MdgKIE",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "nl-noun",
+        "args": {
+          "1": "n",
+          "2": "-en",
+          "3": "suikerbeestje"
+        },
+        "expansion": "suikerbeest n (plural suikerbeesten, diminutive suikerbeestje n)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "suikerbeesten",
+        "tags": [
+          "plural"
+        ]
+      },
+      {
+        "form": "suikerbeestje",
+        "tags": [
+          "diminutive",
+          "neuter"
+        ]
+      }
+    ],
+    "etymology_text": "Compound of suiker (\u201csugar\u201d) + beest (\u201cbeast\u201d).",
+    "etymology_templates": [
+      {
+        "name": "compound",
+        "args": {
+          "1": "nl",
+          "2": "suiker",
+          "t1": "sugar",
+          "3": "beest",
+          "t2": "beast"
+        },
+        "expansion": "suiker (\u201csugar\u201d) + beest (\u201cbeast\u201d)"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "/\u02c8s\u0153y\u032f.k\u0259r\u02ccbe\u02d0st/"
+      },
+      {
+        "audio": "Nl-suikerbeest.ogg",
+        "text": "Audio",
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Nl-suikerbeest.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5e/Nl-suikerbeest.ogg/Nl-suikerbeest.ogg.mp3"
+      }
+    ],
+    "word": "suikerbeest",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "senses": [
+      {
+        "raw_glosses": [
+          "confection made in the shape of an animal, made of borstplaat, a substance similar to tablet"
+        ],
+        "tags": [
+          "neuter"
+        ],
+        "glosses": [
+          "confection made in the shape of an animal, made of borstplaat, a substance similar to tablet"
+        ],
+        "id": "suikerbeest-nl-noun-i3mwtaft",
+        "categories": [
+          {
+            "name": "Dutch compound words",
+            "kind": "other",
+            "parents": [
+              "Compound words",
+              "Terms by etymology"
+            ],
+            "source": "w"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "nl-noun",
+        "args": {
+          "1": "m",
+          "2": "-en",
+          "3": "magnetostaartje"
+        },
+        "expansion": "magnetostaart m (plural magnetostaarten, diminutive magnetostaartje n)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "magnetostaarten",
+        "tags": [
+          "plural"
+        ]
+      },
+      {
+        "form": "magnetostaartje",
+        "tags": [
+          "diminutive",
+          "neuter"
+        ]
+      }
+    ],
+    "etymology_text": "From magneto- (\u201cmagneto-\u201d) + staart (\u201ctail\u201d), a calque of English magnetotail.",
+    "etymology_templates": [
+      {
+        "name": "prefix",
+        "args": {
+          "1": "nl",
+          "2": "magneto",
+          "3": "staart",
+          "t1": "magneto-",
+          "t2": "tail"
+        },
+        "expansion": "magneto- (\u201cmagneto-\u201d) + staart (\u201ctail\u201d)"
+      },
+      {
+        "name": "calque",
+        "args": {
+          "1": "nl",
+          "2": "en",
+          "3": "magnetotail",
+          "nocap": "1"
+        },
+        "expansion": "calque of English magnetotail"
+      }
+    ],
+    "word": "magnetostaart",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "senses": [
+      {
+        "raw_glosses": [
+          "(astronomy) magnetotail"
+        ],
+        "topics": [
+          "astronomy",
+          "natural-sciences"
+        ],
+        "tags": [
+          "masculine"
+        ],
+        "glosses": [
+          "magnetotail"
+        ],
+        "id": "magnetostaart-nl-noun-sDNwfC2t",
+        "categories": [
+          {
+            "name": "Astronomy",
+            "kind": "topical",
+            "parents": [
+              "Sciences",
+              "Space",
+              "All topics",
+              "Nature",
+              "Fundamental"
+            ],
+            "source": "w",
+            "orig": "nl:Astronomy",
+            "langcode": "nl"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "nl-noun",
+        "args": {
+          "1": "f",
+          "2": "-",
+          "3": "-"
+        },
+        "expansion": "quintessens f (uncountable)"
+      }
+    ],
+    "word": "quintessens",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "senses": [
+      {
+        "raw_glosses": [
+          "quintessence"
+        ],
+        "tags": [
+          "feminine",
+          "uncountable"
+        ],
+        "glosses": [
+          "quintessence"
+        ],
+        "id": "quintessens-nl-noun-TyICnboi",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "pos": "verb",
+    "head_templates": [
+      {
+        "name": "nl-verb",
+        "args": {},
+        "expansion": "kapoeneren"
+      }
+    ],
+    "word": "kapoeneren",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "senses": [
+      {
+        "raw_glosses": [
+          "to caponize"
+        ],
+        "glosses": [
+          "to caponize"
+        ],
+        "id": "kapoeneren-nl-verb-Pv1dUcVm",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "nl-noun",
+        "args": {
+          "1": "f",
+          "2": "-en",
+          "3": "sneeuwbesje"
+        },
+        "expansion": "sneeuwbes f (plural sneeuwbessen, diminutive sneeuwbesje n)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "sneeuwbessen",
+        "tags": [
+          "plural"
+        ]
+      },
+      {
+        "form": "sneeuwbesje",
+        "tags": [
+          "diminutive",
+          "neuter"
+        ]
+      }
+    ],
+    "word": "sneeuwbes",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "sounds": [
+      {
+        "audio": "Nl-sneeuwbes.ogg",
+        "text": "Audio",
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Nl-sneeuwbes.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bc/Nl-sneeuwbes.ogg/Nl-sneeuwbes.ogg.mp3"
+      }
+    ],
+    "senses": [
+      {
+        "raw_glosses": [
+          "snowberry"
+        ],
+        "tags": [
+          "feminine"
+        ],
+        "glosses": [
+          "snowberry"
+        ],
+        "id": "sneeuwbes-nl-noun-vAttmHcO",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "nl-noun",
+        "args": {
+          "1": "f",
+          "2": "sporendozen",
+          "3": "sporendoosje"
+        },
+        "expansion": "sporendoos f (plural sporendozen, diminutive sporendoosje n)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "sporendozen",
+        "tags": [
+          "plural"
+        ]
+      },
+      {
+        "form": "sporendoosje",
+        "tags": [
+          "diminutive",
+          "neuter"
+        ]
+      }
+    ],
+    "etymology_text": "From spoor (\u201cspore\u201d) + doos (\u201cbox\u201d).",
+    "etymology_templates": [
+      {
+        "name": "compound",
+        "args": {
+          "1": "nl",
+          "2": "spoor",
+          "3": "doos",
+          "t1": "spore",
+          "t2": "box"
+        },
+        "expansion": "spoor (\u201cspore\u201d) + doos (\u201cbox\u201d)"
+      }
+    ],
+    "word": "sporendoos",
+    "lang": "Dutch",
+    "lang_code": "nl",
+    "senses": [
+      {
+        "raw_glosses": [
+          "(botany) sporangium"
+        ],
+        "synonyms": [
+          {
+            "word": "sporangium"
+          }
+        ],
+        "topics": [
+          "biology",
+          "botany",
+          "natural-sciences"
+        ],
+        "tags": [
+          "feminine"
+        ],
+        "glosses": [
+          "sporangium"
+        ],
+        "id": "sporendoos-nl-noun-WI3vei3i",
+        "categories": [
+          {
+            "name": "Dutch compound words",
+            "kind": "other",
+            "parents": [
+              "Compound words",
+              "Terms by etymology"
+            ],
+            "source": "w"
+          },
+          {
+            "name": "Botany",
+            "kind": "topical",
+            "parents": [
+              "Biology",
+              "Sciences",
+              "All topics",
+              "Fundamental"
+            ],
+            "source": "w",
+            "orig": "nl:Botany",
+            "langcode": "nl"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -4,7 +4,7 @@ const fs = require("node:fs");
 const path = require("path");
 
 function getPath(fileName) {
-  return path.resolve(__dirname, "databases", fileName);
+  return path.resolve(__dirname, "../", "databases", fileName);
 }
 
 module.exports = async function compress(language) {

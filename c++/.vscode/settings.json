@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "iosfwd": "cpp",
+    "ostream": "cpp",
+    "xstring": "cpp",
+    "regex": "cpp",
+    "deque": "cpp",
+    "format": "cpp",
+    "list": "cpp",
+    "vector": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Enabled",
+}
