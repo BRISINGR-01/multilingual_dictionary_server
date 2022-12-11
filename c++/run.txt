@@ -1,1 +1,1 @@
-g++ -o a a.cpp -lsqlite3 && ./a.exe
+g++ -o convertDB convertDB.cpp -lsqlite3 && ./convertDB.exe

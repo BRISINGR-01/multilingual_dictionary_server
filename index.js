@@ -4,49 +4,44 @@ const http = require("http");
 const languagesList = require("./languages.json");
 const download = require("./download");
 
-
 const server = http.createServer(async (req, res) => {
-  const request = decodeURI(req.url.replace("/", ""));
+	const request = decodeURI(req.url.replace("/", ""));
 
-  console.log(request);
+	console.log(request);
 
-  if (languagesList.includes(request)) {
-    let language = request;
+	if (languagesList.includes(request)) {
+		let language = request;
 
-    if (
-      !fs.existsSync(
-        path.resolve(__dirname, "../", "databases", `${language}.sql.zip`)
-      )
-    ) {
-      // await download(language);
-    }
+		const file_path = path.resolve(
+			__dirname,
+			"../",
+			"databases",
+      "zip",
+			`${language}.sql.zip`
+		);
 
+		if (!fs.existsSync(file_path)) {
+			// await download(language);
+		}
 
-    const file_path = path.resolve(
-      __dirname,
-      "../",
-      "databases",
-      `${language}.sql.zip`
-    );
+		const { size } = fs.statSync(file_path);
+		const compressionData = JSON.parse(
+			fs
+				.readFileSync(path.resolve(__dirname, "compressionData.json"))
+				.toString()
+		);
 
-      const { size } = fs.statSync(file_path);
-    const compressionData = JSON.parse(
-      fs
-        .readFileSync(path.resolve(__dirname, "compressionData.json"))
-        .toString()
-    );
+		res.writeHead(200, {
+			"Content-Encoding": "gzip",
+			"Content-Length": size,
+			Conection: "keep-alive",
+			"Original-Length": compressionData[language],
+		});
 
-    res.writeHead(200, {
-      "Content-Encoding": "gzip",
-      "Content-Length": size,
-      "Conection": "keep-alive",
-      "Original-Length": compressionData[language],
-    });
+		return fs.createReadStream(file_path).pipe(res).on("finish", res.end);
+	}
 
-    return fs.createReadStream(file_path).pipe(res).on('finish', res.end);
-  }
-
-  res.end();
+	res.end();
 });
 
 server.listen(5500, console.log);

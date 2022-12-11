@@ -23,7 +23,7 @@ async function download(language) {
   )}.json`;
 
   let lastLine = "",
-    index = 0;
+    index = 1;
 
   const db = await commands.init(language);
 
