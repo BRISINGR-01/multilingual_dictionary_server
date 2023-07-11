@@ -2,59 +2,49 @@ const transformer = require("./transformer");
 const commands = require("./dbCommands");
 const compress = require("./compress");
 const fs = require("fs");
+const { Languages } = require("./utilities");
 // const https = require("https");
 
 const https = {
-  get: (_, cb) =>
-    cb(
-      fs.createReadStream(
-        __dirname + "./../databases/Bulgarian.txt"
-        // "/databases/Tocharian A.txt"
-      )
-    ),
-}; // testing
+	get: (url, cb) => cb(fs.createReadStream(Languages.raw(url.split("/")[4]))),
+}; // development
 
 module.exports = download;
 
 async function download(language) {
-  const url = `- https://kaikki.org/dictionary/${language}/words/kaikki.org-dictionary-${language.replace(
-    /\s/g,
-    ""
-  )}.json`;
+	const url = `- https://kaikki.org/dictionary/${language}/words/kaikki.org-dictionary-${language.replace(
+		/\s/g,
+		""
+	)}.json`;
 
-  let lastLine = "",
-    index = 1;
+	const db = await commands.create(language);
 
-  const db = await commands.init(language);
+	return new Promise((resolve) => {
+		let residual = "";
 
-  return new Promise((resolve) => {
-    https.get(url, (stream) => {
-      stream.on("data", (chunk) => {
-        chunk = chunk.toString();
-        let lines = (lastLine + chunk).split("\n");
+		https.get(url, (stream) => {
+			stream.on("data", (chunk) => {
+				chunk = chunk.toString();
+				let lines = (residual + chunk).split("\n");
 
-        lastLine = lines.pop();
+				residual = lines.pop();
 
-        const words = transformer(lines.map(JSON.parse), language);
+				const words = transformer(lines.map(JSON.parse), language);
 
-        for (const i in words) {
-          db.run(commands.add(words[i], language, index), (err) => {
-            if (err) console.log(err, words[i]);
-          });
+				for (const i in words) {
+					db.run(commands.add(words[i], language), (err) => {
+						if (err) console.log(err, words[i]);
+					});
+				}
+			});
 
-          index++;
-        }
-      });
+			stream.on("end", async () => {
+				db.close();
 
-      stream.on("end", async () => {
-        db.close();
+				await compress(language);
 
-        await compress(language);
-
-        resolve();
-      });
-    });
-  });
+				resolve();
+			});
+		});
+	});
 }
-
-// download("Bulgarian");

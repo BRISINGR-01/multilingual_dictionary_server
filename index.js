@@ -1,47 +1,51 @@
 const fs = require("fs");
-const path = require("path");
 const http = require("http");
 const languagesList = require("./languages.json");
 const download = require("./download");
+const { Languages } = require("./utilities");
 
 const server = http.createServer(async (req, res) => {
-	const request = decodeURI(req.url.replace("/", ""));
+	const request = req.url.split("/").filter(Boolean);
+	const language = request[0];
+	const type = request[1];
+	console.log(language, type);
 
-	console.log(request);
+	if (!Languages.has(language)) throw new Error("Unsupported language");
 
-	if (languagesList.includes(request)) {
-		let language = request;
-
-		const file_path = path.resolve(
-			__dirname,
-			"../",
-			"databases",
-      "zip",
-			`${language}.sql.zip`
-		);
-
-		if (!fs.existsSync(file_path)) {
+	if (type === "db") {
+		let languageFile = Languages.db(language);
+		if (!languageFile) {
 			// await download(language);
+			languageFile = Languages.db(language);
 		}
-
-		const { size } = fs.statSync(file_path);
-		const compressionData = JSON.parse(
-			fs
-				.readFileSync(path.resolve(__dirname, "compressionData.json"))
-				.toString()
-		);
 
 		res.writeHead(200, {
 			"Content-Encoding": "gzip",
-			"Content-Length": size,
+			"Content-Length": fs.statSync(languageFile).size,
 			Conection: "keep-alive",
-			"Original-Length": compressionData[language],
+			"Uncompressed-Length": Languages.uncompressedSize(language),
 		});
 
-		return fs.createReadStream(file_path).pipe(res).on("finish", res.end);
+		return fs.createReadStream(languageFile).pipe(res).on("finish", res.end);
+	} else if (type === "grammar") {
+		const languageFile = Languages.grammar(language);
+
+		if (!languageFile) {
+			res.statusCode(404);
+
+			return res.end();
+		} else {
+			res.writeHead(200, {
+				"Content-Encoding": "gzip",
+				"Content-Length": fs.statSync(languageFile).size,
+				Conection: "keep-alive",
+			});
+
+			return fs.createReadStream(languageFile).pipe(res).on("finish", res.end);
+		}
 	}
 
 	res.end();
 });
 
-server.listen(5500, console.log);
+server.listen(3000, console.log);
